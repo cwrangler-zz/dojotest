@@ -1,2 +1,2 @@
 # dojotest
-simple test for connections
+simple test for connections in the raw
